@@ -1,0 +1,72 @@
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\Wedding Management System.exe
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.csprojAssemblyReference.cache
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.AssemblyInfoInputs.cache
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.AssemblyInfo.cs
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\Wedding Management System.deps.json
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\Wedding Management System.runtimeconfig.json
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\Wedding Management System.runtimeconfig.dev.json
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\Wedding Management System.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\Wedding Management System.pdb
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.csproj.CoreCompileInputs.cache
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.csproj.CopyComplete
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.dll
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.pdb
+C:\Users\NIPUN 1\Desktop\DESKTOP FILES\MCA\Semester - 3\C#\C# Lab\Project\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.genruntimeconfig.cache
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\Wedding Management System.exe
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\Wedding Management System.deps.json
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\Wedding Management System.runtimeconfig.json
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\Wedding Management System.runtimeconfig.dev.json
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\Wedding Management System.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\Wedding Management System.pdb
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.csprojAssemblyReference.cache
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.AssemblyInfoInputs.cache
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.AssemblyInfo.cs
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.csproj.CoreCompileInputs.cache
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.csproj.CopyComplete
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.dll
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.pdb
+C:\Users\nipun\OneDrive\Desktop\C# project\Wedding Management System\Wedding Management System\obj\Debug\netcoreapp3.1\Wedding Management System.genruntimeconfig.cache
